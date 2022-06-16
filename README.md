@@ -4,4 +4,4 @@
 
 - [Ремонт USB разъёма/USB connector recovery](./USB_recovery/README.md)
 - [Добавление своей точки в базу Ekahau Pro/Custom AP in Ekahau Pro](./Custom-AP-in-Ekahau/README.md)
-- [Что делать, если не видится Sidekick](ESK1dshow.md)
+- [Что делать, если не видится Sidekick](./ESK_dont_show/README.md)
