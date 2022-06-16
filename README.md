@@ -7,4 +7,4 @@
 - [Что делать, если не видится Sidekick](./ESK_dont_show/README.md)
 
 ## Полезное:
-- [База материалов в Wi-Fi](https://github.com/skhomm/useful-wireless-links)
+- [База материалов по Wi-Fi](https://github.com/skhomm/useful-wireless-links)
