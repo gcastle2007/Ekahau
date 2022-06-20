@@ -1,7 +1,7 @@
 # Wi-Fi Stand
 
-- [Wi-Fi Stand](https://wifistand.com/)
+- [Wi-Fi Stand](https://wifistand.com/), можно купить тут.
 - 3D печатная версия рамки на Thingiverse:
-    - [Версия 1](https://www.thingiverse.com/thing:4819305)
-    - [Версия 2](https://www.thingiverse.com/thing:5292474)
+    - [Версия 1](https://www.thingiverse.com/thing:4819305), с неё всё начиналось.
+    - [Версия 2](https://www.thingiverse.com/thing:5292474), со стальной шпилькой в верхней части.
     - [Версия 3 (с впавиваемыми гайками)](./STL/WiFiStand3.stl), необходим split на объекты в слайсере.
