@@ -1,4 +1,4 @@
-Есть ответ от Support, который помогает решить данную проблему:
+## Есть ответ от Support, который помогает решить данную проблему:
 
 Please open the control panel and browse to network connection. You should have there Sidekick (NDIS-6 device) that is seen as an ethernet connection. Right click on that and choose "status" and then on the first page "details", this should give you the ip address. 
 
