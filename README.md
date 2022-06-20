@@ -4,9 +4,9 @@
 
 - [Ремонт USB разъёма/USB connector recovery](./USB_recovery/README.md)
 - [Добавление своей точки в базу Ekahau Pro/Custom AP in Ekahau Pro](./Custom-AP-in-Ekahau/README.md)
-- [Что делать, если не видится Sidekick](./ESK_dont_show/README.md)
-- [Где взять рамку для подвеса точки доступа при обследовании "точка на палке"/"AP on a stick"?](./WiFiStand/APonstick.md)
+- [Что делать, если не видится Sidekick?/If PC don't see Sidekick?](./ESK_dont_show/README.md)
+- [Где взять рамку для подвеса точки доступа при обследовании "точка на палке"/"AP on a stick"?/Wi-Fi Stand](./WiFiStand/APonstick.md)
 - [Boolochka's Ekahau BOM](http://bit.ly/ekahau_bom), делаем Bill of Materials в Ekahau через шаблоны
 
 ## Полезное:
-- [База материалов по Wi-Fi](https://github.com/skhomm/useful-wireless-links)
+- [База материалов по Wi-Fi/Big wireless library](https://github.com/skhomm/useful-wireless-links)
