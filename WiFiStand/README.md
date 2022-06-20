@@ -1,7 +1,7 @@
 # Wi-Fi Stand - рамка для подвеса точки доступа при проведении радиообследования на объекте.
 
 - [Wi-Fi Stand](https://wifistand.com/), можно купить тут/You can to buy here.
-- 3D печатная версия рамки на Thingiverse/3D printing version on Thingiverse:
+- 3D печатная версия рамки/3D printing version:
     - [Версия 1/Version 1](https://www.thingiverse.com/thing:4819305), с неё всё начиналось/First version.
     - [Версия 2/Version 2](https://www.thingiverse.com/thing:5292474), со стальной шпилькой в верхней части/with steel pin at the top.
     - [Версия 3 (с впаиваемыми гайками M3)/Version 3 (with M3 solder nuts)](./STL/WiFiStand3.stl), необходим split на объекты в слайсере/You must to split to object in slicer.
