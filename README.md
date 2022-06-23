@@ -9,4 +9,6 @@
 - [Boolochka's Ekahau BOM](http://bit.ly/ekahau_bom), делаем Bill of Materials в Ekahau через шаблоны
 
 ## Полезное:
+- [Ekahau Support page](https://support.ekahau.com/hc/en-us)
+- [Knowledge base - Ekahau Pro](https://support.ekahau.com/hc/en-us/categories/360001609854-Knowledge-base-Ekahau-Pro)
 - [База материалов по Wi-Fi / Big wireless library](https://github.com/skhomm/useful-wireless-links)
