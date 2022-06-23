@@ -10,7 +10,7 @@ You need datasheet to AP and access to configuration file of Ekahau.
 
 Папку инсталляции Ekahau обозначим как `root`.
 
-Installation folder of Ekahau we will mak as `root`.
+Installation folder of Ekahau we will mark as `root`.
 
 Соответственно конфигруационные файлы по точкам доступа лежат в `root\conf\accessPointTypes.xml`.
 
