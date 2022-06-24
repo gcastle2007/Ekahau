@@ -118,6 +118,5 @@ PS: В папке AP_and_antennas могут находится конифгур
 PS: The AP_and_antennas folder may contain configurations of access points and antennas that are not in the official distribution. If you want to make the configuration of some access point or antenna public, then you can do this through a Pull Request.
 
 # change log:
-2022-06-24 + Vector VAP300-2X2i, VAP300-2X2i-W, VAP500-4X4i
-
+2022-06-24 + Vector VAP300-2X2i, VAP300-2X2i-W, VAP500-4X4i  
 2022-04-29 + Eltex WEP-3ax
