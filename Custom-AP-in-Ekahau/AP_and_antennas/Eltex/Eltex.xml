@@ -1,0 +1,4 @@
+<accessPointType vendor="Eltex" model="WEP-3ax" >
+  <radioType technology="ax" frequencyBand="2.4" mimo="2x2" spatialStreams="2"/>
+  <radioType technology="ax" frequencyBand="5" mimo="2x2" spatialStreams="2"/>  
+</accessPointType>
