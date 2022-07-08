@@ -4,31 +4,31 @@
 
 Файл > Печать/Plot:
 
-![Plot](./images/1.PNG)
+![Plot](./images/1.jpg)
 
 Properties, Выбираем Custom Papper size и жмём Add:
 
-![Plot](./images/2.PNG)
-![Plot](./images/3.PNG)
+![Plot](./images/2.jpg)
+![Plot](./images/3.jpg)
 
 Жмём Далее и выставляем размеры: 
 
-![Plot](./images/4.PNG)
+![Plot](./images/4.jpg)
 
 Обзываем профиль:
 
-![Plot](./images/5.PNG)
+![Plot](./images/5.jpg)
 
 Готово!
 
-![Plot](./images/6.PNG)
+![Plot](./images/6.jpg)
 
 Мы видим этот вариант:
 
-![Plot](./images/7.PNG)
+![Plot](./images/7.jpg)
 
 Выбираем этот вариант:
 
-![Plot](./images/8.PNG)
+![Plot](./images/8.jpg)
 
 Не забываем указать через “Window<” фрейм, который хотим экспортировать. Жмём OK. Загружаем как карту в Ekahau. Наслаждаемся жизнью. 
