@@ -9,6 +9,7 @@
 Properties, Выбираем Custom Papper size и жмём Add:
 
 ![Plot](./images/2.jpg)
+
 ![Plot](./images/3.jpg)
 
 Жмём Далее и выставляем размеры: 
