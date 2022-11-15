@@ -1,0 +1,4 @@
+  <accessPointType vendor="Reyee" model="RAP1200(F)">
+    <radioType technology="n" frequencyBand="2.4" mimo="2x2" spatialStreams="2"/>
+    <radioType technology="ac" frequencyBand="5" mimo="2x2" spatialStreams="2" maxSupportedBandwidth="80MHz"/>
+  </accessPointType>
