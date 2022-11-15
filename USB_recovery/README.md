@@ -31,3 +31,6 @@ With a very high probability, you will also have to buy a new cable, because nat
 Final:
 
 ![New micro-USB](./images/New%20micro-USB.jpg)
+
+Удачи!
+Всё что выделаете, Вы делаете на свой страх и риск.
