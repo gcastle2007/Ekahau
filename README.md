@@ -16,4 +16,4 @@
 - [Ekahau Support page](https://support.ekahau.com/hc/en-us)
 - [Knowledge base - Ekahau Pro](https://support.ekahau.com/hc/en-us/categories/360001609854-Knowledge-base-Ekahau-Pro)
 - [База материалов по Wi-Fi / Big wireless library](https://github.com/skhomm/useful-wireless-links)
-- [Сайт со сравнительными характеристиками чипов]()
+- [Сайт со сравнительными характеристиками чипов](https://wikidevi.wi-cat.ru)
