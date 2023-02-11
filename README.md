@@ -8,11 +8,12 @@
 - [Что делать, если не видится Sidekick? / If PC don't see Sidekick?](./ESK_dont_show/README.md)
 - [Где взять рамку для подвеса точки доступа при обследовании "точка на палке" / "AP on a stick"?/Wi-Fi Stand](./WiFiStand/README.md)
 - [Boolochka's Ekahau BOM](http://bit.ly/ekahau_bom), делаем Bill of Materials в Ekahau через шаблоны
+- [Ekahau BOM / Более свежая версия](https://github.com/htechno/EkahauBOM)
 - [Как экспортировать из AutoCAD с разрешением до 10000x10000? / How to export from Autocad with resolution 10000x10000](./Autocad/README.md)
 - [Оффсеты различных устройств, измеренные пользователями Ekahau](./Offsets/)
 - [Sidekick stand / Подставка для Sidekick](./Sidekick%20stand/README.md)
-- [Ekahau BOM](https://github.com/htechno/EkahauBOM)
-- 
+- [Пример сбора offset'ов от Максима Гетмана (Getmaximum)](./GetMax_Offset/offset%20example%20by%20get_max.xlsx)
+
 ## Полезное:
 - [Ekahau Support page](https://support.ekahau.com/hc/en-us)
 - [Knowledge base - Ekahau Pro](https://support.ekahau.com/hc/en-us/categories/360001609854-Knowledge-base-Ekahau-Pro)
