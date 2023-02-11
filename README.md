@@ -11,7 +11,8 @@
 - [Как экспортировать из AutoCAD с разрешением до 10000x10000? / How to export from Autocad with resolution 10000x10000](./Autocad/README.md)
 - [Оффсеты различных устройств, измеренные пользователями Ekahau](./Offsets/)
 - [Sidekick stand / Подставка для Sidekick](./Sidekick%20stand/README.md)
-
+- [Ekahau BOM](https://github.com/htechno/EkahauBOM)
+- 
 ## Полезное:
 - [Ekahau Support page](https://support.ekahau.com/hc/en-us)
 - [Knowledge base - Ekahau Pro](https://support.ekahau.com/hc/en-us/categories/360001609854-Knowledge-base-Ekahau-Pro)
