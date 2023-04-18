@@ -11,7 +11,7 @@
 - [Ekahau BOM / Более свежая версия](https://github.com/htechno/EkahauBOM)
 - [Как экспортировать из AutoCAD с разрешением до 10000x10000? / How to export from Autocad with resolution 10000x10000](./Autocad/README.md)
 - [Оффсеты различных устройств, измеренные пользователями Ekahau](./Offsets/)
-- [Sidekick stand / Подставка для Sidekick](./Sidekick%20stand/README.md)
+- [Sidekick stand (ESK-1, ESK-2) / Подставка для Sidekick 1 и 2](./Sidekick%20stand/README.md)
 - [Пример сбора offset'ов от Максима Гетмана (Getmaximum)](./GetMax_Offset/offset%20example%20by%20get_max.xlsx)
 
 ## Полезное:
