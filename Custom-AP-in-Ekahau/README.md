@@ -113,6 +113,8 @@ Also you must correct record in end of file:
 
 Further study of the `accessPointTypes.xml` file will help you understand how to correctly add points with certain settings.
 
+[Antenna Converter.xlsx](./Antenna Converter.xlsx) - удобный файл для перегонки значений из значений Antenna Pattern Editor в формат Ekahau.
+
 PS: В папке [AP_and_antennas](./AP_and_antennas/) могут находится конифгурации точек доступа и антенн, которых нет в официальном дистрибутиве. Если Вы хотите сделать конфигурацию какой-то точки доступа или антенны общедоступными, то Вы можете сделать это через Pull Request.
 
 PS: The [AP_and_antennas](./AP_and_antennas/) folder may contain configurations of access points and antennas that are not in the official distribution. If you want to make the configuration of some access point or antenna public, then you can do this through a Pull Request.
