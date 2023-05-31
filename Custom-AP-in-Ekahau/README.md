@@ -120,6 +120,7 @@ PS: В папке [AP_and_antennas](./AP_and_antennas/) могут находи�
 PS: The [AP_and_antennas](./AP_and_antennas/) folder may contain configurations of access points and antennas that are not in the official distribution. If you want to make the configuration of some access point or antenna public, then you can do this through a Pull Request.
 
 # change log:
+2023-05-31 + Eltex: WEP-2L, LWEP-3L, WOP-20L, WEP-30L, WEP-200L
 2022-11-15 + Reyee RAP1200(F)  
 2022-06-24 + Vector VAP300-2X2i, VAP300-2X2i-W, VAP500-4X4i  
 2022-04-29 + Eltex WEP-3ax

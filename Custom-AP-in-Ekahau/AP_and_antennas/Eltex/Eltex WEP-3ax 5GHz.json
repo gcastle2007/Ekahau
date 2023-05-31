@@ -591,7 +591,7 @@
         "angleInDegrees": 355.0,
         "dBi": -8.95
       }
-    ],
+      ],
     "type": "Elevation",
     "scaleMin": -30.0,
     "scaleMax": 5.0
@@ -604,7 +604,7 @@
     "model": {
       "model": "WEP-3ax"
     }
-  },
+},
   "wcsMapping": {},
   "defaultTiltAngle": {
     "degrees": 0.0

@@ -54,7 +54,7 @@
         "dBi": -4.70
       },
       {
-        "angleInDegrees": 60.0,
+		"angleInDegrees": 60.0,
         "dBi": -3.97
       },
       {
@@ -222,7 +222,7 @@
         "dBi": -3.02
       },
       {
-        "angleInDegrees": 270.0,
+		"angleInDegrees": 270.0,
         "dBi": -4.06
       },
       {
@@ -303,7 +303,7 @@
       "degrees": 180.0
     },
     "gains": [
-            {
+      {
         "angleInDegrees": 0.0,
         "dBi": -8.40
       },
