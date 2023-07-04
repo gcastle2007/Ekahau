@@ -2,7 +2,7 @@
 
 ![WI0-Fi Stand](./images/photo1.jpg)
 
-- Wi-Fi Stand, можно купить [тут](https://wifistand.com/) или [тут (если Вы из РФ)] (https://www.avito.ru/sankt-peterburg/tovary_dlya_kompyutera/wi-fi_stand_wi-fi_stend_2388694430) /You can to buy [here](https://wifistand.com/) or [here (if you from Russia)](https://www.avito.ru/sankt-peterburg/tovary_dlya_kompyutera/wi-fi_stand_wi-fi_stend_238869443).
+- Wi-Fi Stand, можно купить [тут](https://wifistand.com/) или [тут (если Вы из РФ)](https://www.avito.ru/sankt-peterburg/tovary_dlya_kompyutera/wi-fi_stand_wi-fi_stend_2388694430) /You can to buy [here](https://wifistand.com/) or [here (if you from Russia)](https://www.avito.ru/sankt-peterburg/tovary_dlya_kompyutera/wi-fi_stand_wi-fi_stend_238869443).
 - 3D печатная версия рамки/3D printing version:
     - [Версия 1 / Version 1](https://www.thingiverse.com/thing:4819305), с неё всё начиналось / First version.
     - [Версия 2 / Version 2](https://www.thingiverse.com/thing:5292474), со стальной шпилькой в верхней части / with steel pin at the top.
