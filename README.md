@@ -14,6 +14,13 @@
 - [Sidekick stand (ESK-1, ESK-2) / Подставка для Sidekick 1 и 2](./Sidekick%20stand/README.md)
 - [Пример сбора offset'ов от Максима Гетмана (Getmaximum)](./GetMax_Offset/offset%20example%20by%20get_max.xlsx)
 
+## Полезный софт:
+- [MacOS, Wi-Fi Explorer](https://www.intuitibits.com/products/wifiexplorer/)
+- [Windows, WinFi](https://www.tethabyte.com/download)
+- [Android, Aruba Utilities](https://play.google.com/store/apps/details?id=com.arubanetworks.arubautilities&hl=en_US&gl=US)
+- [iOS](http://www.my80211.com/home/2019/10/5/ios-13-and-ipados-wi-fi-diagnostics.html)
+- [Wireshark](https://www.wireshark.org/download.html)
+
 ## Полезное:
 - [Ekahau Support page](https://support.ekahau.com/hc/en-us)
 - [Knowledge base - Ekahau Pro](https://support.ekahau.com/hc/en-us/categories/360001609854-Knowledge-base-Ekahau-Pro)
