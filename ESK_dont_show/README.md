@@ -1,5 +1,7 @@
 ## Есть ответ от Support, который помогает решить данную проблему/Answer from Ekahau Support:
 
+Данное описание возможно устарело и работает только с Ekahau Pro (до 10 версии включительно).
+
 Please open the control panel and browse to network connection. You should have there Sidekick (NDIS-6 device) that is seen as an ethernet connection. Right click on that and choose "status" and then on the first page "details", this should give you the ip address. 
 
 Other option is to open Command prompt with run as admin command and type ipconfig / all , and provide me the output.
