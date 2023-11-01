@@ -1,0 +1,232 @@
+{
+  "directional": false,
+  "horizontalPlane": {
+    "alignment": {
+      "degrees": 0.0
+    },
+    "gains": [
+      {
+        "angleInDegrees": 0.0,
+        "dBi": -2.15
+      },
+      {
+        "angleInDegrees": 15.0,
+        "dBi": -3.04
+      },
+      {
+        "angleInDegrees": 30.0,
+        "dBi": -3.32
+      },
+      {
+        "angleInDegrees": 45.0,
+        "dBi": -2.3
+      },
+      {
+        "angleInDegrees": 60.0,
+        "dBi": -2.48
+      },
+      {
+        "angleInDegrees": 75.0,
+        "dBi": -3.18
+      },
+      {
+        "angleInDegrees": 90.0,
+        "dBi": -2.66
+      },
+      {
+        "angleInDegrees": 105.0,
+        "dBi": -2.64
+      },
+      {
+        "angleInDegrees": 120.0,
+        "dBi": -3.66
+      },
+      {
+        "angleInDegrees": 135.0,
+        "dBi": -3.35
+      },
+      {
+        "angleInDegrees": 150.0,
+        "dBi": -3.11
+      },
+      {
+        "angleInDegrees": 165.0,
+        "dBi": -2.53
+      },
+      {
+        "angleInDegrees": 180.0,
+        "dBi": 0.45
+      },
+      {
+        "angleInDegrees": 195.0,
+        "dBi": 2.51
+      },
+      {
+        "angleInDegrees": 210.0,
+        "dBi": -0.77
+      },
+      {
+        "angleInDegrees": 225.0,
+        "dBi": -1.85
+      },
+      {
+        "angleInDegrees": 240.0,
+        "dBi": -1.85
+      },
+      {
+        "angleInDegrees": 255.0,
+        "dBi": -1.66
+      },
+      {
+        "angleInDegrees": 270.0,
+        "dBi": -0.91
+      },
+      {
+        "angleInDegrees": 285.0,
+        "dBi": -0.04
+      },
+      {
+        "angleInDegrees": 300.0,
+        "dBi": -0.89
+      },
+      {
+        "angleInDegrees": 315.0,
+        "dBi": -1.68
+      },
+      {
+        "angleInDegrees": 330.0,
+        "dBi": -1.73
+      },
+      {
+        "angleInDegrees": 345.0,
+        "dBi": -2.02
+      }
+    ],
+    "type": "Azimuth",
+    "scaleMin": NaN,
+    "scaleMax": NaN
+  },
+  "elevationPlane": {
+    "alignment": {
+      "degrees": 90.0
+    },
+    "gains": [
+      {
+        "angleInDegrees": 0.0,
+        "dBi": 0.45
+      },
+      {
+        "angleInDegrees": 15.0,
+        "dBi": -0.72
+      },
+      {
+        "angleInDegrees": 30.0,
+        "dBi": 0.93
+      },
+      {
+        "angleInDegrees": 45.0,
+        "dBi": 2.4
+      },
+      {
+        "angleInDegrees": 60.0,
+        "dBi": 1.54
+      },
+      {
+        "angleInDegrees": 75.0,
+        "dBi": 0.46
+      },
+      {
+        "angleInDegrees": 90.0,
+        "dBi": -2.15
+      },
+      {
+        "angleInDegrees": 105.0,
+        "dBi": -3.84
+      },
+      {
+        "angleInDegrees": 120.0,
+        "dBi": -7.24
+      },
+      {
+        "angleInDegrees": 135.0,
+        "dBi": -8.58
+      },
+      {
+        "angleInDegrees": 150.0,
+        "dBi": -7.93
+      },
+      {
+        "angleInDegrees": 165.0,
+        "dBi": -9.02
+      },
+      {
+        "angleInDegrees": 180.0,
+        "dBi": -15.64
+      },
+      {
+        "angleInDegrees": 195.0,
+        "dBi": -9.62
+      },
+      {
+        "angleInDegrees": 210.0,
+        "dBi": -9.63
+      },
+      {
+        "angleInDegrees": 225.0,
+        "dBi": -8.54
+      },
+      {
+        "angleInDegrees": 240.0,
+        "dBi": -2.51
+      },
+      {
+        "angleInDegrees": 255.0,
+        "dBi": -2.89
+      },
+      {
+        "angleInDegrees": 270.0,
+        "dBi": 0.45
+      },
+      {
+        "angleInDegrees": 285.0,
+        "dBi": -1.67
+      },
+      {
+        "angleInDegrees": 300.0,
+        "dBi": 3.65
+      },
+      {
+        "angleInDegrees": 315.0,
+        "dBi": 3.98
+      },
+      {
+        "angleInDegrees": 330.0,
+        "dBi": 1.45
+      },
+      {
+        "angleInDegrees": 345.0,
+        "dBi": -0.48
+      }
+    ],
+    "type": "Elevation",
+    "scaleMin": NaN,
+    "scaleMax": NaN
+  },
+  "frequencyBand": "TWO",
+  "accessPointVendorModel": {
+    "vendor": {
+      "vendor": "ZRJ"
+    },
+    "model": {
+      "model": "WAP-X10"
+    }
+  },
+  "wcsMapping": {},
+  "defaultTiltAngle": {
+    "degrees": 0.0
+  },
+  "manufacturerMaximumGain": NaN,
+  "antennaTechnology": "WIFI",
+  "defaultMounting": "CEILING",
+  "apCoupling": "INTERNAL_ANTENNA"
+}

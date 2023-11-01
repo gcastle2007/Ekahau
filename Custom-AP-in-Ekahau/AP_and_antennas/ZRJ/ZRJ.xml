@@ -1,0 +1,22 @@
+  <accessPointType vendor="ZRJ" model="WAP-I3">
+    <radioType technology="n" frequencyBand="2.4" mimo="2x2" spatialStreams="2" defaultAntenna24="ZRJ WAP-I3 2.4GHz" defaultAntenna5="ZRJ WAP-I3 5GHz"/>
+    <radioType technology="ac" frequencyBand="5" mimo="2x2" spatialStreams="2" defaultAntenna24="ZRJ WAP-I3 2.4GHz" defaultAntenna5="ZRJ WAP-I3 5GHz"/>
+    <radioType technology="ac" frequencyBand="5" mimo="4x4" spatialStreams="4" defaultAntenna24="ZRJ WAP-I3 2.4GHz" defaultAntenna5="ZRJ WAP-I3 5GHz"/>
+  </accessPointType>
+  <accessPointType vendor="ZRJ" model="WAP-X2">
+    <radioType technology="ax" frequencyBand="2.4" mimo="2x2" spatialStreams="2"/>
+    <radioType technology="ax" frequencyBand="5" mimo="2x2" spatialStreams="2"/>
+  </accessPointType>
+    <accessPointType vendor="ZRJ" model="WAP-X4">
+    <radioType technology="ax" frequencyBand="2.4" mimo="2x2" spatialStreams="2"/>
+    <radioType technology="ax" frequencyBand="5" mimo="4x4" spatialStreams="4"/>
+  </accessPointType>
+  <accessPointType vendor="ZRJ" model="WAP-X10">
+    <radioType technology="ax" frequencyBand="2.4" mimo="4x4" spatialStreams="4"/>
+    <radioType technology="ax" frequencyBand="5" mimo="8x8" spatialStreams="8"/>
+    <radioType radioTechnology="bluetooth" frequencyBand="2.4" defaultAntennaBluetooth="ZRJ WAP-X10 BLE"/>
+  </accessPointType>
+  <accessPointType vendor="ZRJ" model="WAP-XW2">
+    <radioType technology="ax" frequencyBand="2.4" mimo="2x2" spatialStreams="2"/>
+    <radioType technology="ax" frequencyBand="5" mimo="2x2" spatialStreams="2"/>
+  </accessPointType>
