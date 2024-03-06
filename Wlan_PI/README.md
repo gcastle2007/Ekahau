@@ -8,7 +8,7 @@ WLANPI M4:
 | Плата расширения MCUZone | до 5500 | | без PoE https://aliexpress.ru/item/1005002483187367.html, с PoE https://aliexpress.ru/item/1005003823642614.html |
 | Плата расширения MCUZone Wi-Fi 7 rev.1.0 | | 6361 | https://aliexpress.ru/item/1005006304890677.html |
 | Дисплей | 1225.55 | | https://aliexpress.ru/item/4000407560621.html |
-|  Сетевая карта Mediatek MT7921K | 1316.72 | | https://aliexpress.ru/item/1005003916843106.html |
+|  Сетевая карта Mediatek MT7922 | 1400 | | https://aliexpress.ru/item/1005005038454680.html |
 |  Сетевая карта Intel BE200 | | 2060 | https://aliexpress.ru/item/1005003916843106.html |
 | Антенны (нужны с коннектором IPEX MHF4, проверяйте, какие коннекторы у пигтейлов, по ссылке похоже не подходят) | 192,52 |  | https://aliexpress.ru/item/4000478543477.html?spm=a2g2w.orderdetail.0.0.40554aa6RWypXL&sku_id=12000028175186553 |
 | Колодка на GPIO | | 326 | https://aliexpress.ru/item/1005006185824484.html |
