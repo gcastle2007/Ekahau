@@ -119,7 +119,7 @@ PS: В папке [AP_and_antennas](./AP_and_antennas/) могут находи�
 
 PS: The [AP_and_antennas](./AP_and_antennas/) folder may contain configurations of access points and antennas that are not in the official distribution. If you want to make the configuration of some access point or antenna public, then you can do this through a Pull Request.
 
-## Начиная с верси Ekahau 11.6.x, профили точек доступа и антенн лежат в c:\Users\<<login>>\Ekahau Pro\\.settings\
+## Начиная с верси Ekahau 11.6.x, профили точек доступа и антенн лежат в "user_profile"\Ekahau Pro\\.settings\
 
 # change log:
 2024-03-04 + Eltex WOP-30LS
