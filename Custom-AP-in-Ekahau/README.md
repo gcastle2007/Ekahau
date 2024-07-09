@@ -122,6 +122,7 @@ PS: The [AP_and_antennas](./AP_and_antennas/) folder may contain configurations 
 ## Начиная с верси Ekahau 11.6.x, профили точек доступа и антенн лежат в "user_profile"\Ekahau Pro\\.settings\
 
 # change log:
+- 2024-07-09 + Linki Kabarga
 - 2024-03-04 + Eltex WOP-30LS
 - 2023-11-01 + ZRJ WAP-I3, WAP-X2, WAP-X4, WAP-X10, WAP-XW2
 - 2023-05-31 + Eltex: WEP-2L, LWEP-3L, WOP-20L, WEP-30L, WEP-200L
