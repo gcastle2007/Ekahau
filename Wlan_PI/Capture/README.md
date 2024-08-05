@@ -4,7 +4,7 @@
 
 Чтобы использовать WlanPI для удалённой сборки пакетов в Wireshark, необдходимо:
 - установить Wireshark с sshdump;
-- добавить в папку <patch to Wireshark folder>\Wireshark\extcap\ файл wlanpidump_v2.bat
+- добавить в папку <<patch to Wireshark folder>>\Wireshark\extcap\ файл [wlanpidump_v2.bat](./files/wlanpidump_v2.bat) 
 - запустить Wireshark и настроить доступ к WlanPI:
 
 Скриншоты:
