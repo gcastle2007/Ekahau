@@ -18,3 +18,7 @@
 # Как сделать несколько iperf3 сервисов на Wlanpi
 
 Оригинал https://mac-wifi.com/running-logging-multiple-iperf-services-on-the-wlanpi/
+
+# Как делать сбор пакетов с нескольких каналов через один WlanPI 
+
+Оригинал https://dot11.exposed/2024/04/08/live-multi-channel-captures-with-wlanpi-on-windows/
