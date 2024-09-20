@@ -14,3 +14,7 @@
 ![](./images/3.png)
 ![](./images/4.png)
 ![](./images/5.png)
+
+# Как сделать несколько iperf3 сервисов на Wlanpi
+
+Оригинал https://mac-wifi.com/running-logging-multiple-iperf-services-on-the-wlanpi/
