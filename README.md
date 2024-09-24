@@ -27,3 +27,4 @@
 - [База материалов по Wi-Fi / Big wireless library](https://github.com/skhomm/useful-wireless-links)
 - [Сайт со сравнительными характеристиками чипов](https://wikidevi.wi-cat.ru)
 - [Данные с сайта Mike Albano](./MikeAlbano_copy/)
+- [RSSI Compared](https://rssicompared.com/)
