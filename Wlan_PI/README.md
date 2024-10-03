@@ -23,3 +23,5 @@ WLANPI M4:
 Полезное:
 
 [Собираем удалённо пакеты используюя WlanPI и Wireshark](./Capture/README.md)
+[Telegram Chat Bot](https://github.com/WLAN-Pi/wlanpi-chat-bot)
+[speedtest in Chat Bot](https://www.speedtest.net/apps/cli)
