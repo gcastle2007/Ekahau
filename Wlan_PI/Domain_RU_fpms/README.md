@@ -1,13 +1,6 @@
 # Добавление регуляторного домена RU в FPMS (меню) на WlanPi
 
-Идём в:
-```
-/opt/wlanpi-fpms/lib/python3.9/site-packages/fpms $ ls -la
-```
-Редактируем файл fpms.py:
-```
-sudo nano fpms.py
-```
+Идём в `/opt/wlanpi-fpms/lib/python3.9/site-packages/fpms`. Редактируем файл fpms.py `sudo nano fpms.py`.
 Ищем такой кусок кода:
 ```
     def show_reg_domain():
