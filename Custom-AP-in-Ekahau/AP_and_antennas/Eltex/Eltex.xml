@@ -23,6 +23,6 @@
   <radioType technology="ac" frequencyBand="5" mimo="4x4" spatialStreams="2" defaultAntenna24="Eltex WOP-20L 2.4GHz" defaultAntenna5="Eltex WOP-20L 5GHz"/>  
 </accessPointType>
 <accessPointType vendor="Eltex" model="WOP-30LS" >
-  <radioType technology="ax" frequencyBand="2.4" mimo="2x2" spatialStreams="2"/>
-  <radioType technology="ax" frequencyBand="5" mimo="2x2" spatialStreams="2"/>  
+  <radioType technology="ax" frequencyBand="2.4" mimo="2x2" spatialStreams="2" defaultAntenna24="ELTEX WOP-30LS 2.4GHz" defaultAntenna5="ELTEX WOP-30LS 5GHz"/>
+  <radioType technology="ax" frequencyBand="5" mimo="2x2" spatialStreams="2" defaultAntenna24="ELTEX WOP-30LS 2.4GHz" defaultAntenna5="ELTEX WOP-30LS 5GHz"/>  
 </accessPointType>
