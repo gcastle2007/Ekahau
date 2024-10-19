@@ -13,7 +13,7 @@
 - [Оффсеты различных устройств, измеренные пользователями Ekahau](./Offsets/)
 - [Sidekick stand (ESK-1, ESK-2) / Подставка для Sidekick 1 и 2](./Sidekick%20stand/README.md)
 - [Пример сбора offset'ов от Максима Гетмана (Getmaximum)](./GetMax_Offset/offset%20example%20by%20get_max.xlsx)
-- [Формат отчёта от Арсения Синвейес-Бринкс](./Areseniy/Report_TEMPLATE_A3.docx)
+- [Формат отчёта от Арсения Синвейес-Бринкс](./Arseniy/Report_TEMPLATE_A3.docx)
 
 ## Полезный софт:
 - [MacOS, Wi-Fi Explorer](https://www.intuitibits.com/products/wifiexplorer/)
