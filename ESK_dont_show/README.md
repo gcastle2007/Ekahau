@@ -1,5 +1,7 @@
 ## Есть ответ от Support, который помогает решить данную проблему/Answer from Ekahau Support:
 
+### Версия 1.
+
 Данное описание возможно устарело и работает только с Ekahau Pro (до 10 версии включительно).
 
 Please open the control panel and browse to network connection. You should have there Sidekick (NDIS-6 device) that is seen as an ethernet connection. Right click on that and choose "status" and then on the first page "details", this should give you the ip address. 
@@ -33,3 +35,7 @@ Save the file (please make sure that when saving choose "all the files" in the f
 Close the editor
 
 start Ekahau Pro
+
+### Версия 2.
+
+https://wifistrongman.wordpress.com/2020/03/31/ekahau-sidekick-cannot-communicate-with-pro/
