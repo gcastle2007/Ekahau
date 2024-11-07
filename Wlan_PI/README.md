@@ -28,4 +28,4 @@ WLANPI M4:
   - [Telegram Chat Bot](https://github.com/WLAN-Pi/wlanpi-chat-bot)
   - [Speedtest in Chat Bot](https://www.speedtest.net/apps/cli)
   - ["Ремонт" работы speedtest в WlanPi Chat Bot](./Wlanpi-chat-bot/README.md)
-- [Автоматизация получения оффсетов клиентских устройств через скрипт](./Wlanpi_offsets/README.md)
+- [Автоматизация перебора каналов вещаия для получения оффсетов клиентских устройств через скрипт](./Wlanpi_offsets/README.md)
