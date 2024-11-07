@@ -2,6 +2,8 @@
 
 Пока только скрипт, который запускает profiler на 1 минуту на каждом канале:
 
+So far there is only a script that runs the profiler for 1 minute on each channel:
+
 ```
 #!/usr/bin/bash
 timeout -k 5 60s sudo profiler -c 1
