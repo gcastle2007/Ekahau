@@ -14,6 +14,7 @@
 - [Sidekick stand (ESK-1, ESK-2) / Подставка для Sidekick 1 и 2](./Sidekick%20stand/README.md)
 - [Пример сбора offset'ов от Максима Гетмана (Getmaximum)](./GetMax_Offset/offset%20example%20by%20get_max.xlsx)
 - [Формат отчёта от Арсения Синвайтес-Бринкс](./Arseniy/Report_TEMPLATE_A3.docx)
+- [После survey с применением iPhone или iPad не получается вытащить файлы с Sidekick для передачи в ПО Ekahau на ПК.](./Iphone_ipad_trouble/README.md)
 
 ## Полезный софт:
 - [MacOS, Wi-Fi Explorer](https://www.intuitibits.com/products/wifiexplorer/)
