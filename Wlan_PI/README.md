@@ -26,6 +26,7 @@ WLANPI M4:
 - [Собираем удалённо пакеты используюя WlanPI и Wireshark](./Capture/README.md)
 - [Добавление регуляторного домена RU в FPMS (меню)](./Domain_RU_fpms/README.md)
 - [Как запустить несколько экземпляров iperf3?](https://mac-wifi.com/running-logging-multiple-iperf-services-on-the-wlanpi/)
+- [Вариант запуска iperf3 для обработки запросов сразу от нескольких клиентов на разных портах, через ngix.](./iperf3/README.md)
 - [Как проверить, поддерживает ли Wi-Fi сеть 802.11k?](https://semfionetworks.com/blog/wireshark-how-to-check-if-a-wi-fi-network-supports-80211k/)
 - [Как проверить, поддерживает ли Wi-Fi сеть 802.11k/r?](https://mac-wifi.com/how-to-verify-whether-802-11k-and-11r-are-enabled-via-a-capture/)
 - WlanPi Chat Bot в Telegram:
@@ -33,4 +34,3 @@ WLANPI M4:
   - [Speedtest in Chat Bot](https://www.speedtest.net/apps/cli)
   - ["Ремонт" работы speedtest в WlanPi Chat Bot](./Wlanpi-chat-bot/README.md)
 - [Автоматизация перебора каналов вещания для получения оффсетов клиентских устройств через скрипт](./Wlanpi_offsets/README.md)
-- [Вариант запуска iperf3 для обработки запросов сразу от нескольких клиентов на разных портах, через ngix.](./iperf3/README.md)
