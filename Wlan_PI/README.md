@@ -33,3 +33,4 @@ WLANPI M4:
   - [Speedtest in Chat Bot](https://www.speedtest.net/apps/cli)
   - ["Ремонт" работы speedtest в WlanPi Chat Bot](./Wlanpi-chat-bot/README.md)
 - [Автоматизация перебора каналов вещания для получения оффсетов клиентских устройств через скрипт](./Wlanpi_offsets/README.md)
+- [Вариант запуска iperf3 для обработки запросов сразу от нескольких клиентов на разных портах, через ngix.](./iperf3/README.md)
