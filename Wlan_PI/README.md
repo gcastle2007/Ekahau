@@ -22,7 +22,7 @@ WLANPI M4:
 Возможно что-то забыто... Проверяйте в оригинальном проекте...
 
 Полезное:
-
+- [Сбока WLAN PI](./build/README.md)
 - [Собираем удалённо пакеты используюя WlanPI и Wireshark](./Capture/README.md)
 - [Добавление регуляторного домена RU в FPMS (меню)](./Domain_RU_fpms/README.md)
 - [Как запустить несколько экземпляров iperf3?](https://mac-wifi.com/running-logging-multiple-iperf-services-on-the-wlanpi/)
