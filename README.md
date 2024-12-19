@@ -30,3 +30,4 @@
 - [Сайт со сравнительными характеристиками чипов](https://wikidevi.wi-cat.ru)
 - [Данные с сайта Mike Albano](./MikeAlbano_copy/)
 - [RSSI Compared](https://rssicompared.com/)
+- [WLAN PI, инструмент инженера](./Wlan_PI/README.md)
