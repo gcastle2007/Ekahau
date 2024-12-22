@@ -7,3 +7,5 @@ sudo wget -O /lib/firmware/mediatek/mt7925/WIFI_MT7925_PATCH_MCU_1_1_hdr.bin htt
 sudo wget -O /lib/firmware/mediatek/mt7925/WIFI_RAM_CODE_MT7925_1_1.bin https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/plain/mediatek/mt7925/WIFI_RAM_CODE_MT7925_1_1.bin
 sudo reboot
 ```
+
+Но нужно ещё каких-то пару служб гасить, чуть позже глянем...
