@@ -34,3 +34,4 @@ WLANPI M4:
   - [Speedtest in Chat Bot](https://www.speedtest.net/apps/cli)
   - ["Ремонт" работы speedtest в WlanPi Chat Bot](./Wlanpi-chat-bot/README.md)
 - [Автоматизация перебора каналов вещания для получения оффсетов клиентских устройств через скрипт](./Wlanpi_offsets/README.md)
+- [Если у вас зависает WLAN PI с Mediatek mt7925.](./mt7925/README.md)
