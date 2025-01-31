@@ -125,6 +125,7 @@ PS: The [AP_and_antennas](./AP_and_antennas/) folder may contain configurations 
 ## [Инструкция для MacOS](./MacOS_add_AP_in_Ekahau.pdf), спасибо Сергею!
 
 # change log:
+- 2025-01-31 + Qtech
 - 2024-07-09 + Linki Kabarga
 - 2024-03-04 + Eltex WOP-30LS
 - 2023-11-01 + ZRJ WAP-I3, WAP-X2, WAP-X4, WAP-X10, WAP-XW2
