@@ -122,6 +122,8 @@ PS: The [AP_and_antennas](./AP_and_antennas/) folder may contain configurations 
 
 ## Начиная с верси Ekahau 11.6.x, профили точек доступа и антенн лежат в "user_profile"\Ekahau Pro\\.settings\
 
+## Начиная с верси Ekahau 11.7.x, профили точек доступа и антенн лежат в "user_profile"\Ekahau Pro\\.settings\updates\
+
 ## [Инструкция для MacOS](./MacOS_add_AP_in_Ekahau.pdf), спасибо Сергею!
 
 # change log:
