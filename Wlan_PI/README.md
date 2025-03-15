@@ -21,6 +21,9 @@ WLANPI M4:
 
 Возможно что-то забыто... Проверяйте в оригинальном проекте...
 
+Разница между коннекторами на пигтейлах антенн U.FL, MHF3, MHF4.
+![U.FL, MHF3, MHF4](./images/ufl_mhf3_mhf4.jpg)
+
 Полезное:
 - [Сборка WLAN PI](./build/README.md)
 - [Собираем удалённо пакеты используюя WlanPI и Wireshark](./Capture/README.md)
