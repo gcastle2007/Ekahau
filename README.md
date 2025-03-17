@@ -33,3 +33,4 @@
 - [RSSI Compared](https://rssicompared.com/)
 - [WLAN PI, инструмент инженера](./Wlan_PI/README.md)
 - [Книги/Books](./Books/)
+- [Как съездить в Калиниград и не лишиться оборудования?](./Kaliningrad/README.md)
