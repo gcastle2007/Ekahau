@@ -24,6 +24,14 @@ WLANPI M4:
 Разница между коннекторами на пигтейлах антенн U.FL, MHF3, MHF4.
 ![U.FL, MHF3, MHF4](./images/ufl_mhf3_mhf4.jpg)
 
+Grafana не обновляется? Добавьте зеркала:
+```
+wlanpi@wlanpi-xxx:/etc/apt/sources.list.d $ cat grafana.list 
+#deb [signed-by=/usr/share/keyrings/grafana.key] https://apt.grafana.com stable main
+deb [signed-by=/usr/share/keyrings/grafana.key] https://mirrors.cloud.tencent.com/grafana/apt/ stable main
+deb [signed-by=/usr/share/keyrings/grafana.key] https://mirrors.aliyun.com/grafana/debian/ stable main
+```
+
 Полезное:
 - [Сборка WLAN PI](./build/README.md)
 - [Собираем удалённо пакеты используюя WlanPI и Wireshark](./Capture/README.md)
