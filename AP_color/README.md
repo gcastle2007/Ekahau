@@ -21,7 +21,7 @@
 http://oberoninc.com/images/WebDocs/CCOAPi_Skin_Spec_Sheet.pdf 
 
 Рисунок 2. Можно использовать ПВХ-ленту или листовой материал:
-![Picture 2](./images/pic_2.jpg)
+![Picture 2](./images/pic_2.jpg)  
 http://solutions.3m.com/wps/portal/3M/en_US/EMDCI/Home/Products/ProductCatalog/~/Scotch-Vinyl-Color-Coding-Electrical-Tape-35?N=5432987+3294355725&rt=rud
 
 Также возможно использование сторонних сервисов 3D-печати для индивидуальных решений. Например, такие компании, как www.shapeways.com, могут изготавливать индивидуальные накладки или другие решения с помощью 3D-печати, которые затем можно покрасить и при этом снять, если потребуется гарантийное обслуживание.
