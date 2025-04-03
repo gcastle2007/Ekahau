@@ -18,7 +18,11 @@
 
 ## 3. Powerbank
 - [Acceltex](http://link.to.Acceltex.site);
-- [WIS](http://link.to.aliexpress);
+- WIS Networks:
+    - [V1](https://www.wisnetworks.com/products/wis-ppb-at);
+    - [V2](https://www.wisnetworks.com/products/wis-ppb-wifi);
+    - [V3](https://www.wisnetworks.com/products/wis-ppb-bt).
+    - [Купить на Aliexpress](https://aliexpress.ru/item/1005008389213320.html).
 - возможны и другие варианты.
 
 ## 4. WLAN PI или любой другой девайс, который будет:
