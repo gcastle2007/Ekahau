@@ -17,7 +17,7 @@
     - [Версия 3 (финальаня, с впаиваемыми гайками M3) / Version 3 (fianl, with M3 solder nuts)] Можно [приобрести на Avito.ru](https://www.avito.ru/sankt-peterburg/tovary_dlya_kompyutera/wi-fi_stand_wi-fi_stend_2388694430).
 
 ## 3. Powerbank
-- [Acceltex](http://link.to.Acceltex.site);
+- [Acceltex](https://www.hubbell.com/acceltex/en/products/data-communications/site-survey-tools/site-survey-battery-packs/c/15647838);
 - WIS Networks:
     - [V1](https://www.wisnetworks.com/products/wis-ppb-at);
     - [V2](https://www.wisnetworks.com/products/wis-ppb-wifi);
