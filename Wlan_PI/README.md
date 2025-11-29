@@ -47,4 +47,3 @@ deb [signed-by=/usr/share/keyrings/grafana.key] https://mirrors.aliyun.com/grafa
 - [Автоматизация перебора каналов вещания для получения оффсетов клиентских устройств через скрипт](./Wlanpi_offsets/README.md)
 - [Если у вас зависает WLAN PI с Mediatek mt7925.](./mt7925/README.md)
 - [Не работает Profiler на версии 3.4.2?](./Profiler/README.md)
-- 
