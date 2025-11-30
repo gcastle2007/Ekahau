@@ -24,7 +24,7 @@ wlanpi-profiler |     1.0.13 | https://packagecloud.io/wlanpi/main/debian bullse
 `apt install wlanpi-rofiler=1.0.18-2` 
 
 
-# Перевод с оригинального гита.
+# Что такое Profiler?  Перевод с оригинального гита.
 
 Оригинальный git https://github.com/WLAN-Pi/wlanpi-profiler
 
