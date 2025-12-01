@@ -114,21 +114,19 @@ Also you must correct record in end of file:
 
 Further study of the `accessPointTypes.xml` file will help you understand how to correctly add points with certain settings.
 
-[Antenna_Converter.xlsx](./Antenna_Converter.xlsx) - удобный файл для перегонки значений из значений Antenna Pattern Editor в формат Ekahau. Спасибо Adner.
-
 PS: В папке [AP_and_antennas](./AP_and_antennas/) могут находится конифгурации точек доступа и антенн, которых нет в официальном дистрибутиве. Если Вы хотите сделать конфигурацию какой-то точки доступа или антенны общедоступными, то Вы можете сделать это через Pull Request.
 
 PS: The [AP_and_antennas](./AP_and_antennas/) folder may contain configurations of access points and antennas that are not in the official distribution. If you want to make the configuration of some access point or antenna public, then you can do this through a Pull Request.
 
-## Начиная с верси Ekahau 11.6.x, профили точек доступа и антенн лежат в "user_profile"\Ekahau Pro\\.settings\
+## Начиная с версии Ekahau 11.6.x, профили точек доступа и антенн лежат в "user_profile"\Ekahau Pro\\.settings\
 
-## Начиная с верси Ekahau 11.7.x, профили точек доступа и антенн лежат в "user_profile"\Ekahau Pro\\.settings\updates\
-
-## [Инструкция для MacOS](./MacOS_add_AP_in_Ekahau.pdf), спасибо Сергею!
+## Начиная с версии Ekahau 11.7.x, профили точек доступа и антенн лежат в "user_profile"\Ekahau Pro\\.settings\updates\
 
 ## Полезное:
 
 - [Коллекция антенн от Артура](https://github.com/32fca06c/ekahau-antennas)
+- [Инструкция для MacOS](./MacOS_add_AP_in_Ekahau.pdf), спасибо Сергею!
+- [Antenna_Converter.xlsx](./Antenna_Converter.xlsx) - удобный файл для перегонки значений из значений Antenna Pattern Editor в формат Ekahau. Спасибо Adner.
 
 # change log:
 - 2025-01-31 + Qtech
