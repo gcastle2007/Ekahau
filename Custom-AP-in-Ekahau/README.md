@@ -126,6 +126,10 @@ PS: The [AP_and_antennas](./AP_and_antennas/) folder may contain configurations 
 
 ## [Инструкция для MacOS](./MacOS_add_AP_in_Ekahau.pdf), спасибо Сергею!
 
+## Полезное:
+
+- [Коллекция антенн от Артура](https://github.com/32fca06c/ekahau-antennas)
+
 # change log:
 - 2025-01-31 + Qtech
 - 2024-07-09 + Linki Kabarga
