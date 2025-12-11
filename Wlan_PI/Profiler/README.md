@@ -1,32 +1,8 @@
 # WLAN Pi Profiler
 
-На версии wlanpi 3.4.2 Profiler не работает. Нужно откатиться на 1.0.18-2.
-Как это сделать?
-
-Смотрим, на какую версию мы можем откатиться?
-
-`apt-cache madison wlanpi-profiler`:
-
-```
-wlanpi-profiler |   1.0.20-1 | https://packagecloud.io/wlanpi/main/debian bullseye/main arm64 Packages
-wlanpi-profiler |   1.0.19-1 | https://packagecloud.io/wlanpi/main/debian bullseye/main arm64 Packages
-wlanpi-profiler |   1.0.18-2 | https://packagecloud.io/wlanpi/main/debian bullseye/main arm64 Packages
-wlanpi-profiler |     1.0.18 | https://packagecloud.io/wlanpi/main/debian bullseye/main arm64 Packages
-wlanpi-profiler |     1.0.17 | https://packagecloud.io/wlanpi/main/debian bullseye/main arm64 Packages
-wlanpi-profiler |     1.0.16 | https://packagecloud.io/wlanpi/main/debian bullseye/main arm64 Packages
-wlanpi-profiler |     1.0.15 | https://packagecloud.io/wlanpi/main/debian bullseye/main arm64 Packages
-wlanpi-profiler |     1.0.14 | https://packagecloud.io/wlanpi/main/debian bullseye/main arm64 Packages
-wlanpi-profiler |     1.0.13 | https://packagecloud.io/wlanpi/main/debian bullseye/main arm64 Packages
-```
-
-У меня заработала 1.0.18-2, устанавливаем её и радуемся жизни.
-
-`apt install wlanpi-rofiler=1.0.18-2` 
-
-
 # Что такое Profiler?  Перевод с оригинального гита.
 
-Оригинальный git https://github.com/WLAN-Pi/wlanpi-profiler
+Оригинальный git https://github.com/WLAN-Pi/wlanpi-profiler. Настоятельно рекомендуется к изучению!!!
 
 ## wlanpi-profiler
 
@@ -120,3 +96,67 @@ Profiler входит в образ WLAN Pi как пакет Debian, но ес�
 
 - Python версии 3.9 или выше
 - На хосте установлены инструменты iw, iproute2, pciutils, usbutils, kmod, wpa_cli и wpasupplicant. Большинство дистрибутивов уже поставляются с ними.
+
+# Не работает Profiler на версии 3.4.2?
+
+На версии wlanpi 3.4.2 Profiler не работает. Нужно откатиться на 1.0.18-2.
+Как это сделать?
+
+Смотрим, на какую версию мы можем откатиться?
+
+`apt-cache madison wlanpi-profiler`:
+
+```
+wlanpi-profiler |   1.0.20-1 | https://packagecloud.io/wlanpi/main/debian bullseye/main arm64 Packages
+wlanpi-profiler |   1.0.19-1 | https://packagecloud.io/wlanpi/main/debian bullseye/main arm64 Packages
+wlanpi-profiler |   1.0.18-2 | https://packagecloud.io/wlanpi/main/debian bullseye/main arm64 Packages
+wlanpi-profiler |     1.0.18 | https://packagecloud.io/wlanpi/main/debian bullseye/main arm64 Packages
+wlanpi-profiler |     1.0.17 | https://packagecloud.io/wlanpi/main/debian bullseye/main arm64 Packages
+wlanpi-profiler |     1.0.16 | https://packagecloud.io/wlanpi/main/debian bullseye/main arm64 Packages
+wlanpi-profiler |     1.0.15 | https://packagecloud.io/wlanpi/main/debian bullseye/main arm64 Packages
+wlanpi-profiler |     1.0.14 | https://packagecloud.io/wlanpi/main/debian bullseye/main arm64 Packages
+wlanpi-profiler |     1.0.13 | https://packagecloud.io/wlanpi/main/debian bullseye/main arm64 Packages
+```
+
+У меня заработала 1.0.18-2, устанавливаем её и радуемся жизни.
+
+`apt install wlanpi-rofiler=1.0.18-2` 
+
+# Не получается собирать пакеты с карточкой Intel BE200?
+
+Intel BE200 накладывает определённые ограничения на запуск точки доступа на WLAN Pi в 5 Ghz.
+
+Как их обойти? Можно из CLI запустить profiler в режиме прослушивания трафика на определённом канале. Например, мы можем послушать трафик на 35 канале. Делается это с опцией `--noAP`:
+```
+sudo profiler -c 36 --noAP
+```
+
+Дальше в консоль вы будете получать вывод результатов профилирования клиентов, которые будут подключаться к какому-то SSID на 36 канале:
+
+```
+2025-12-10 08:07:30,057 [INFO] profiler.py: discovered association request for f0:e4:a2:43:07:b4 to ghost
+2025-12-10 08:07:30,058 [INFO] profiler.py: generating text report for f0:e4:a2:43:07:b4
+---------------------------------------------
+ - SSID: ghost
+ - Client MAC: f0:e4:a2:43:07:b4
+ - OUI manufacturer lookup: HuaweiTechno
+ - Chipset lookup: Unknown
+ - Frequency band: 5 GHz
+ - Capture channel: 36
+---------------------------------------------
+802.11k                Supported
+802.11r                Supported
+802.11v                Supported
+802.11w                Supported
+802.11n                Supported (2ss)
+802.11ac               Supported (2ss), MCS 0-9, [X] 160 MHz, [X] SU BF, [ ] MU BF, Beamformee STS=6
+802.11ax               Not supported
+802.11be               Not supported
+Max Power              23 dBm
+Supported Channels     36-64, 132-140, 149-165**
+Number of Channels     16
+
+Key: [X]: Supported, [ ]: Not supported
+* Reported client capabilities are dependent on available features at the time of client association.
+** Reported channels do not factor local regulatory domain. Detected channel sets are assumed contiguous.
+```

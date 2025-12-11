@@ -1,6 +1,8 @@
 # WlanPI
 
-Официальный сайт WLANPI https://www.wlanpi.com/
+Официальный сайт WLANPI https://www.wlanpi.com/. Документация настоятельно рекомендуется к изучению.
+
+Репозитарий на Github https://github.com/WLAN-Pi/. Какие-то нюансы работы приложений Wlan Pi настоятельно рекомендуется изучать в соответствующем разделе репозитария.
 
 WLANPI M4:
 
@@ -46,5 +48,5 @@ deb [signed-by=/usr/share/keyrings/grafana.key] https://mirrors.aliyun.com/grafa
   - ["Ремонт" работы speedtest в WlanPi Chat Bot](./Wlanpi-chat-bot/README.md)
 - [Автоматизация перебора каналов вещания для получения оффсетов клиентских устройств через скрипт](./Wlanpi_offsets/README.md)
 - [Если у вас зависает WLAN PI с Mediatek mt7925.](./mt7925/README.md)
-- [Не работает Profiler на версии 3.4.2?](./Profiler/README.md)
+- [Profiler](./Profiler/README.md)
 - [WLAN Pi Cookbook](https://wlanpi.gitbook.io/cookbook)
