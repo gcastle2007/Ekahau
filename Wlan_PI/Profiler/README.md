@@ -122,7 +122,7 @@ wlanpi-profiler |     1.0.13 | https://packagecloud.io/wlanpi/main/debian bullse
 
 `apt install wlanpi-rofiler=1.0.18-2` 
 
-# Не получается собирать пакеты с карточкой Intel BE200?
+# Не получается провести профилирование устройств с карточкой Intel BE200?
 
 Intel BE200 накладывает определённые ограничения на запуск точки доступа на WLAN Pi в 5 Ghz.
 
