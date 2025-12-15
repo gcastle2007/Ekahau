@@ -1,5 +1,12 @@
 # Добавление своей точки доступа в Ekahau / How to add custom AP in Ekahau?
 
+- [Общая идея](#general)
+- [Отличия в версии 11.6.x](#116x)
+- [Отличия в версии 11.6.x](#117x)
+- [Отличия в версии 11.6.x](#poleznoe)
+- [Change Log](#changelog)
+
+<a name="general"></a>
 У многих из нас возникает вопрос: Как добавить новую точку доступа в Ekahau?
 
 Ответ на данный вопрос достаточно прост и кроется в конфигурациионных файлах Ekahau и даташите на точку доступа.
@@ -118,16 +125,20 @@ PS: В папке [AP_and_antennas](./AP_and_antennas/) могут находи�
 
 PS: The [AP_and_antennas](./AP_and_antennas/) folder may contain configurations of access points and antennas that are not in the official distribution. If you want to make the configuration of some access point or antenna public, then you can do this through a Pull Request.
 
+<a name="116x"></a>
 ## Начиная с версии Ekahau 11.6.x, профили точек доступа и антенн лежат в "user_profile"\Ekahau Pro\\.settings\
 
+<a name="117x"></a>
 ## Начиная с версии Ekahau 11.7.x, профили точек доступа и антенн лежат в "user_profile"\Ekahau Pro\\.settings\updates\
 
+<a name="poleznoe"></a>
 ## Полезное:
 
 - [Коллекция антенн от Артура](https://github.com/32fca06c/ekahau-antennas)
 - [Инструкция для MacOS](./MacOS_add_AP_in_Ekahau.pdf), спасибо Сергею!
 - [Antenna_Converter.xlsx](./Antenna_Converter.xlsx) - удобный файл для перегонки значений из значений Antenna Pattern Editor в формат Ekahau. Спасибо Adner.
 
+<a name="changelog"></a>
 # change log:
 - 2025-01-31 + Qtech
 - 2024-07-09 + Linki Kabarga
