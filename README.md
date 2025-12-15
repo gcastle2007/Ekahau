@@ -9,6 +9,7 @@
 - [Комплект необходимого оборудования для проведения APOS (радиообследование точка на палке).](./WiFiStand/README.md)
 - [Boolochka's Ekahau BOM](http://bit.ly/ekahau_bom), делаем Bill of Materials в Ekahau через шаблоны
 - [Ekahau BOM / Более свежая версия](https://github.com/htechno/EkahauBOM)
+- [Ekahau BOM от nimbo78](https://github.com/nimbo78/EkahauBOM)
 - [Как экспортировать из AutoCAD с разрешением до 10000x10000? / How to export from Autocad with resolution 10000x10000](./Autocad/README.md)
 - [Оффсеты различных устройств, измеренные пользователями Ekahau](./Offsets/)
 - [Sidekick stand (ESK-1, ESK-2) / Подставка для Sidekick 1 и 2](./Sidekick%20stand/README.md)
