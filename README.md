@@ -18,6 +18,7 @@
 - [После survey с применением iPhone или iPad не получается вытащить файлы с Sidekick для передачи в ПО Ekahau на ПК.](./Iphone_ipad_trouble/README.md)
 - [Размеры термопрокладок в ESK-1 и ESK-2](./Thermal_pads/README.md)
 - [Как открыть несколько экземпляров ПО Ekahau на MacBook?](./MacBook/README.md)
+- [Фотографии ESK-1](./ESK-1%20Photo/)
 
 ## Полезный софт:
 - [MacOS, Wi-Fi Explorer](https://www.intuitibits.com/products/wifiexplorer/)
