@@ -28,21 +28,24 @@ AccessPoint configuration file `root\conf\accessPointTypes.xml`.
 
 Sample: You need to create new AP 4:4x4 with 2.4 Ghz and 5Ghz, AX, internal antennas, w/o BLE. Aruba AP-503H will base AP for sample.
 
-В конфигруационном файле находим секцию / You need seach section in configuration file:
+В конфигурационном файле находим секцию / You need seach section in configuration file:
 
+```
     <accessPointType vendor="Aruba" model="AP-503H">
         <radioType technology="ax" frequencyBand="2.4" mimo="2x2" spatialStreams="2"/>
         <radioType technology="ax" frequencyBand="5" mimo="2x2" spatialStreams="2"/>
         <radioType radioTechnology="bluetooth" frequencyBand="2.4" defaultAntennaBluetooth="Aruba AP-503H BLE"/>
     </accessPointType>
-
+```
 
 Копируем её и создаём свою / You need make copy and correct it:
- 
+
+```
     <accessPointType vendor="Custom AP" model="AP-101">
         <radioType technology="ax" frequencyBand="2.4" mimo="4x4" spatialStreams="4"/>
         <radioType technology="ax" frequencyBand="5" mimo="4x4" spatialStreams="4"/>
     </accessPointType>
+```
 
 Сохраняем / Save.
   
@@ -52,19 +55,24 @@ Also you must add antennas. Antennas in file `root\conf\antennas.zip`.
 
 Ищем в архиве следующие файлы / Search in archive next files:
 
+```
     Aruba AP-503H 2.4GHz.json
     Aruba AP-503H 5GHz.json
     Aruba AP-503H BLE.json
+```
 
 Делаем их копию, обозвав соответствующим образом / You make copy and change name:
 
+```
     Custom AP AP-101 2.4Ghz.json
     Custom AP AP-101 5Ghz.json
-  
+```
+
 Если открыть эти файлы на редактирование, то увидим описание диаграммы направленности антенны:
 
 If you open these files for editing, we will see a description of the antenna pattern:
 
+```
     {
         "directional": false,
         "horizontalPlane": {
@@ -81,17 +89,17 @@ If you open these files for editing, we will see a description of the antenna pa
           "dBi": 3.38
         }
     ... (etc..)
-  
+```
+
 Данные можно взять из даташита и внести в соответствующие поля, как для `horizontalPlane`, так и для `elevationPlane`.
 
 You must to see in datasheet and correct record in file for `horizontalPlane` and `elevationPlane`.
-
 
 Обратите внимание на то, что в конце файла также необходимо скорректировать записи:
 
 Also you must correct record in end of file:
 
-  
+```
     "frequencyBand": "TWO",
     "accessPointVendorModel": {
     "vendor": {
@@ -110,7 +118,8 @@ Also you must correct record in end of file:
     "defaultMounting": "WALL",
     "apCoupling": "INTERNAL_ANTENNA"
     }
-  
+```
+
 Файлы необходимо будет сохранить в архиве с антеннами / You must save file in archive with anntennas data.
 
 Итого получим / Final:
@@ -130,6 +139,98 @@ PS: The [AP_and_antennas](./AP_and_antennas/) folder may contain configurations 
 
 <a name="117x"></a>
 ## Начиная с версии Ekahau 11.7.x, профили точек доступа и антенн лежат в "user_profile"\Ekahau Pro\\.settings\updates\
+
+## Описание полей
+
+[Описание полей взято здесь.](https://www.linkedin.com/pulse/create-your-own-antenna-ekahau-bas-van-ooijen)
+
+```
+ "directional":
+```
+
+TRUE для направленных антенн, FALSE для всенаправленных антенн.
+
+```
+ "alignment": {
+ "degrees": 0.0
+    },
+```
+
+![Изображение](./images/custom_ap_1.png)
+
+Смещение выравнивания в градусах от 0 до 360.
+
+Вы также можете исключить некоторое смещение выравнивания в градусах следующим образом: "alignment": {}
+
+```
+"angleInDegrees":
+```
+
+Шаг изменения в градусах составляет от 0 до 360, например, 0,5, 10, 15 и так далее.
+
+```
+"dBi": 3.41
+```
+
+Описывает значение dBi на определенном участке диаграммы направленности антенны.
+
+```
+ "scaleMin":-25.0,
+ "scaleMax": 5.0
+```
+
+Описывает минимальный и максимальный масштаб диаграммы направленности антенны, который также может быть введен в виде NaN.
+
+```
+frequencyBand":
+```
+
+TWO для 2,4 ГГц, FIVE для 5 ГГц в двойных кавычках, далее запятая.
+
+```
+ "accessPointVendorModel": {
+ "vendor": {
+ "vendor": "Costum Antenna"
+    },
+ "model": {
+ "model": "Custom Antenna 001"
+```
+
+Укажите производителя и модель в двойных кавычках.
+
+```
+ "defaultTiltAngle": {
+ "degrees":
+  },
+```
+
+![Изображение](./images/custom_ap_2.png)
+
+Угол наклона в градусах от 0 до 360.
+
+```
+"manufacturerMaximumGain":
+```
+
+Максимальное усиление, указанное в техническом описании антенны, или NaN с запятой.
+
+```
+"antennaTechnology":
+```
+
+«BLUETOTH», «WIFI» в двойных кавычках, далее запятая.
+
+```
+ "defaultMounting":
+```
+
+Слово «WALL» или «CEILING» заключено в двойные кавычки и продолжается запятой.
+
+```
+"apCoupling":
+```
+
+"INTERNAL_ANTENNA" или "EXTERNAL_ANTENNA".
 
 <a name="poleznoe"></a>
 ## Полезное:
