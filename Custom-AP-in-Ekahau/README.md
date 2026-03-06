@@ -3,6 +3,7 @@
 - [Общая идея](#general)
 - [Отличия в версии 11.6.x](#116x)
 - [Отличия в версии 11.7.x](#117x)
+- [Описание полей в json файле](#118x)
 - [Полезное](#poleznoe)
 - [Change Log](#changelog)
 
@@ -141,6 +142,7 @@ PS: The [AP_and_antennas](./AP_and_antennas/) folder may contain configurations 
 ## Начиная с версии Ekahau 11.7.x, профили точек доступа и антенн лежат в "user_profile"\Ekahau Pro\\.settings\updates\
 
 ## Описание полей
+<a name="118x"></a>
 
 [Описание полей взято здесь.](https://www.linkedin.com/pulse/create-your-own-antenna-ekahau-bas-van-ooijen)
 
