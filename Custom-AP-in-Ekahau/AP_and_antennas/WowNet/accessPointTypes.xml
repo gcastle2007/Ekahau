@@ -1,0 +1,20 @@
+  <accessPointType vendor="WowNet" model="Kabarga">
+    <radioType technology="ax" frequencyBand="2.4" mimo="2x2" spatialStreams="2"/>
+    <radioType technology="ax" frequencyBand="5" mimo="2x2" spatialStreams="2" maxSupportedBandwidth="80MHz"/>
+  </accessPointType>
+  <accessPointType vendor="WowNet" model="Kabarga Mini">
+    <radioType technology="ax" frequencyBand="2.4" mimo="2x2" spatialStreams="2"/>
+    <radioType technology="ax" frequencyBand="5" mimo="2x2" spatialStreams="2" maxSupportedBandwidth="80MHz"/>
+  </accessPointType>
+  <accessPointType vendor="WowNet" model="Larga Omni">
+    <radioType technology="ax" frequencyBand="2.4" mimo="2x2" spatialStreams="2"/>
+    <radioType technology="ax" frequencyBand="5" mimo="2x2" spatialStreams="2" maxSupportedBandwidth="80MHz"/>
+  </accessPointType>
+  <accessPointType vendor="WowNet" model="Larga Sector">
+    <radioType technology="ax" frequencyBand="2.4" mimo="2x2" spatialStreams="2"/>
+    <radioType technology="ax" frequencyBand="5" mimo="2x2" spatialStreams="2" maxSupportedBandwidth="80MHz"/>
+  </accessPointType>
+  <accessPointType vendor="WowNet" model="Larga Spot">
+    <radioType technology="ax" frequencyBand="2.4" mimo="2x2" spatialStreams="2"/>
+    <radioType technology="ax" frequencyBand="5" mimo="2x2" spatialStreams="2" maxSupportedBandwidth="80MHz"/>
+  </accessPointType>
